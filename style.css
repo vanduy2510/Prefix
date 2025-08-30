@@ -1,0 +1,8 @@
+h1 {
+  color: red;
+  /* không cho bôi đen, lựa chọn */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
