@@ -6,3 +6,21 @@ h1 {
   -ms-user-select: none;
   user-select: none;
 }
+p {
+  color: red;
+}
+#line2 {
+  font-size: 20px;
+  color: color(a98-rgb rgb(163, 33, 33) rgb(59, 194, 59) rgb(7, 7, 74));
+}
+.demo {
+  color: palevioletred;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+}
+.demo2{
+    font-size: 40px;
+}
+.uk{
+    list-style: none;
+}
